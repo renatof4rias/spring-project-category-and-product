@@ -39,6 +39,13 @@ public class TestConfig implements CommandLineRunner{
 		p2.setCategory(cat2);
 		p3.setCategory(cat1);
 		p4.setCategory(cat2);
+		        
+		
+		
+		
+		
+		
+		
 		
 //		cat1.getProducts().add(p1);
 //		cat1.getProducts().add(p3);
